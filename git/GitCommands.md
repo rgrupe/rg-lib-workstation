@@ -1,8 +1,10 @@
 # Git Commnand
-Before doing any work, ensure latest files from repo on local
+Before doing any work, ensure latest files from repo on local.
+
     ```
     $ git fetch origin
     ```
+
 Committing changes from local to repo (end of working session)
    1. Add the files in your new local repository. This stages them for the first commit.
 	    ```
