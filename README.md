@@ -6,7 +6,7 @@ This project contains notes and utilities for workdstation tools.
 ## Contents
 * Web Browsers: Safari, Chrome, Firefox, Tor
 * Apple [XCode](./XCode.md)
-* Git
+* [Git](git/git.md)
 * Microsoft [Visual Studio Code](./VSCode/VSCode.md)
 * IBM Terminal Emulator [3270](./c3270/c3270.md)
 * Environments
